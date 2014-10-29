@@ -10,7 +10,7 @@ public abstract class Employee <E> {
 		super();
 		this.name = name;
 		this.empType = empType;
-		this.id = id;
+		this.id = id
 	}
 	
 	public void setName(E name) {
